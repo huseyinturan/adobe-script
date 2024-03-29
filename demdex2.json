@@ -1,0 +1,21 @@
+{
+  "d_mid": "88604998232045790493630718330683846952",
+  "id_sync_ttl": 604800,
+  "d_blob": "RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y",
+  "dcs_region": 9,
+  "d_ottl": 7200,
+  "ibs": [
+    {
+      "id": "411",
+      "ttl": 10080,
+      "tag": "img",
+      "fireURLSync": 1,
+      "syncOnPage": 1,
+      "url": [
+        "//cm.everesttech.net/cm/dd?d_uuid=88611537161871874583633581272537075395"
+      ]
+    }
+  ],
+  "subdomain": "kaiser",
+  "tid": "16R2hP+2Src="
+}

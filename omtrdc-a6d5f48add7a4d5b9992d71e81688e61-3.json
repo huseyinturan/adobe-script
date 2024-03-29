@@ -1,0 +1,279 @@
+{
+  "status": 200,
+  "requestId": "2285ce579d9c47ca9b182e4e27056179",
+  "client": "kaiser",
+  "id": {
+    "tntId": "f38dd098ff1847c6a68c1049ff075f5e.35_0",
+    "thirdPartyId": "12581511",
+    "marketingCloudVisitorId": "88604998232045790493630718330683846952",
+    "customerIds": [
+      {
+        "id": "12581511",
+        "integrationCode": "kpaamidepp",
+        "type": "DS",
+        "primary": false,
+        "authenticatedState": "authenticated"
+      },
+      {
+        "id": "12581511",
+        "integrationCode": "kpaamidudr",
+        "type": "DS",
+        "primary": false,
+        "authenticatedState": "authenticated"
+      },
+      {
+        "id": "12581511",
+        "integrationCode": "kpaamid_One-off-datasets",
+        "type": "DS",
+        "primary": false,
+        "authenticatedState": "authenticated"
+      },
+      {
+        "id": "12581511",
+        "integrationCode": "pzn_crm",
+        "type": "DS",
+        "primary": false,
+        "authenticatedState": "authenticated"
+      },
+      {
+        "id": "12581511",
+        "integrationCode": "mbox3rdPartyId",
+        "type": "DS",
+        "primary": false,
+        "authenticatedState": "authenticated"
+      }
+    ]
+  },
+  "edgeHost": "mboxedge35.tt.omtrdc.net",
+  "prefetch": {},
+  "telemetryServerToken": "sWzAuPN0jRUiKvgomAHTp5Xnsnn8TJkKAI00wNaSyq4=",
+  "execute": {
+    "pageLoad": {
+      "options": [
+        {
+          "content": [
+            {
+              "type": "insertAfter",
+              "selector": "div.careTeam > care-team-element",
+              "cssSelector": "#container-be761da850 > DIV:nth-of-type(1) > DIV:nth-of-type(1) > DIV:nth-of-type(4) > DIV:nth-of-type(1) > DIV:nth-of-type(2) > CARE-TEAM-ELEMENT:nth-of-type(1) > DIV:nth-of-type(6)",
+              "content": "\n\n<div>\n    <div class=\"root responsivegrid\">\n\n\n<div class=\"aem-Grid aem-Grid--12 aem-Grid--default--12 \">\n    \n    <div class=\"gs-container-core panel panel-sidebar-links aem-GridColumn aem-GridColumn--default--12\">\n\n\t<div id=\"container-6bdb923c64\" data-analytics-location=\"common resources\">\n\t    \n   \n  <div class=\"cmp-container\">\n        \n\n\n<div class=\"aem-Grid aem-Grid--12 aem-Grid--default--12 \">\n    \n    <div class=\"text parbase aem-GridColumn aem-GridColumn--default--12\">\r\n<div data-analytics-location=\"rich text\"> <h3><b>Common resources</b></h3>\n\n\n</div></div>\n<div class=\"gs-icon-link-text aem-GridColumn aem-GridColumn--default--12\">\n\n\n\n  <div class=\"icon-link  \" data-analytics-location=\"icon link text  \">\n    <div class=\"icon-link-icon\">\n    \t\n    \t<img alt=\"Test tube icon\" aria-hidden=\"true\" src=\"/content/dam/kporg/final/graphics/icons/standard/outline/document-test-tube-outline.svg\"/>\n    </div>\n    <div class=\"icon-link-content\">\n      \n      \n      \n\t      \n\t <a data-analytics-location=\"cta:0\" class=\"  icon-link-link\" href=\"/secure/medical-record/test-results\" data-analytics-click=\"View test results\" target=\"_self\">\n          \n          \n          View test results\n      </a>\n\n\t      \n      \n    </div>\n    \n  </div>\n\n</div>\n<div class=\"horizontal-rule parbase aem-GridColumn aem-GridColumn--default--12\">\n\n<hr class=\"divider-small \"/></div>\n<div class=\"gs-icon-link-text aem-GridColumn aem-GridColumn--default--12\">\n\n\n\n  <div class=\"icon-link  \" data-analytics-location=\"icon link text  \">\n    <div class=\"icon-link-icon\">\n    \t\n    \t<img alt=\"Pill icon\" aria-hidden=\"true\" src=\"/content/dam/kporg/final/graphics/icons/standard/outline/pill-outline.svg\"/>\n    </div>\n    <div class=\"icon-link-content\">\n      \n      \n      \n\t      \n\t <a data-analytics-location=\"cta:0\" class=\"  icon-link-link\" href=\"/secure/pharmacy/landingPage\" data-analytics-click=\"Refill prescriptions\" target=\"_self\">\n          \n          \n          Refill prescriptions\n      </a>\n\n\t      \n      \n    </div>\n    \n  </div>\n\n</div>\n<div class=\"horizontal-rule parbase aem-GridColumn aem-GridColumn--default--12\">\n\n<hr class=\"divider-small \"/></div>\n<div class=\"gs-icon-link-text aem-GridColumn aem-GridColumn--default--12\">\n\n\n\n  <div class=\"icon-link  \" data-analytics-location=\"icon link text  \">\n    <div class=\"icon-link-icon\">\n    \t\n    \t<img alt=\"Folder icon\" aria-hidden=\"true\" src=\"/content/dam/kporg/final/graphics/icons/standard/outline/folder-outline.svg\"/>\n    </div>\n    <div class=\"icon-link-content\">\n      \n      \n      \n\t      \n\t <a data-analytics-location=\"cta:0\" class=\"  icon-link-link\" href=\"/shop-plans/ready-for-medicare\" data-analytics-click=\"Enroll others in Medicare\" target=\"_self\">\n          \n          \n          Enroll others in Medicare\n      </a>\n\n\t      \n      \n    </div>\n    \n  </div>\n\n</div>\n\n    \n</div>\n\n  </div>\n    \n\n\t</div>\n</div>\n\n    \n</div>\n</div>\n\n</div>\n\n\n\n"
+            }
+          ],
+          "type": "actions",
+          "responseTokens": {
+            "profile.LoggedIn": "true",
+            "profile.consumerPlanType": "KFHP_HIX",
+            "activity.name": "130_KP_Inner_Door_Quick_Links : Live 08/09/2022",
+            "geo.state": "california",
+            "activity.id": "464748",
+            "experience.name": "Experience D",
+            "profile.Seg12": "ACTIVE",
+            "profile.guid": "4769692",
+            "profile.Seg106v": "KFHP_HIX",
+            "profile.rndm": "1",
+            "profile.Seg56v": "MBR",
+            "experience.id": "0",
+            "profile.inReEnableGroup": "false",
+            "profile.tntId": "f38dd098ff1847c6a68c1049ff075f5e",
+            "geo.city": "los angeles",
+            "profile.Seg103v": "false",
+            "profile.roleType": "MBR",
+            "profile.selfFunded": "false",
+            "geo.zip": "90011",
+            "profile.Seg2": "98",
+            "profile.isCAFH": "false",
+            "geo.dma": "los angeles",
+            "profile.isProjectIron": "false",
+            "profile.aud_rndm": "29",
+            "profile.membershipAccountStatus": "ACTIVE",
+            "profile.hundredGroups": "45",
+            "profile.lastAuth": "true",
+            "profile.pzn_id": "12581511"
+          },
+          "sourceType": "target"
+        },
+        {
+          "content": [
+            {
+              "type": "customCode",
+              "selector": "HEAD",
+              "cssSelector": "",
+              "content": "<style>\n  div.careTeam > div:nth-of-type(n+2) {\n    display:none;\n  }\n  \n  /*\n  .root > div > .gs-container-core .cmp-container .aem-Grid.aem-Grid--12.aem-Grid--default--12 .icon-link-icon {\n    width: 2pc;\n    height: 2pc;\n    \n  }\n  \n    .root > div > .gs-container-core .cmp-container .aem-Grid.aem-Grid--12.aem-Grid--default--12 .icon-link-icon img {\n    width: 2pc;\n    height: 2pc;\n    \n  }\n  \n  .root > div > .gs-container-core .cmp-container .aem-Grid.aem-Grid--12.aem-Grid--default--12  .text.parbase.aem-GridColumn.aem-GridColumn--default--12{\n    padding-bottom: 15px;\n  }*/\n</style>\n<script>\n  if (location.pathname.includes(\"/es/\")){\n\t$(\"span:contains('Recursos Comunes')\").parent().parent().css(\"padding-bottom\",\"15px\");\n  }else{\n    $(\"span:contains('Quick References')\").parent().parent().css(\"padding-bottom\",\"15px\");\n  }\n</script>"
+            }
+          ],
+          "type": "actions",
+          "responseTokens": {
+            "profile.LoggedIn": "true",
+            "profile.consumerPlanType": "KFHP_HIX",
+            "activity.name": "130_KP_Inner_Door_Quick_Links : Live 08/09/2022",
+            "geo.state": "california",
+            "activity.id": "464748",
+            "experience.name": "Experience D",
+            "profile.Seg12": "ACTIVE",
+            "profile.guid": "4769692",
+            "profile.Seg106v": "KFHP_HIX",
+            "profile.rndm": "1",
+            "profile.Seg56v": "MBR",
+            "experience.id": "0",
+            "profile.inReEnableGroup": "false",
+            "profile.tntId": "f38dd098ff1847c6a68c1049ff075f5e",
+            "geo.city": "los angeles",
+            "profile.Seg103v": "false",
+            "profile.roleType": "MBR",
+            "profile.selfFunded": "false",
+            "geo.zip": "90011",
+            "profile.Seg2": "98",
+            "profile.isCAFH": "false",
+            "geo.dma": "los angeles",
+            "profile.isProjectIron": "false",
+            "profile.aud_rndm": "29",
+            "profile.membershipAccountStatus": "ACTIVE",
+            "profile.hundredGroups": "45",
+            "profile.lastAuth": "true",
+            "profile.pzn_id": "12581511"
+          },
+          "sourceType": "target"
+        },
+        {
+          "content": [
+            {
+              "type": "customCode",
+              "selector": "HEAD",
+              "cssSelector": "",
+              "content": "<style>\n  @media screen and (min-width: 1152px){\n    \n      body[data-node-name=\"inner-door\"] .kp-header .kp-header__top-header {\n      background-color: #003B71 !important;\n    }\n  }\n</style>"
+            }
+          ],
+          "type": "actions",
+          "responseTokens": {
+            "profile.LoggedIn": "true",
+            "profile.consumerPlanType": "KFHP_HIX",
+            "activity.name": "Kporg_Inner_Door_Header_BG_fix : Live 09/29/2022",
+            "geo.state": "california",
+            "activity.id": "473037",
+            "experience.name": "Experience A",
+            "profile.Seg12": "ACTIVE",
+            "profile.guid": "4769692",
+            "profile.Seg106v": "KFHP_HIX",
+            "profile.rndm": "1",
+            "profile.Seg56v": "MBR",
+            "experience.id": "0",
+            "profile.inReEnableGroup": "false",
+            "profile.tntId": "f38dd098ff1847c6a68c1049ff075f5e",
+            "geo.city": "los angeles",
+            "profile.Seg103v": "false",
+            "profile.roleType": "MBR",
+            "profile.selfFunded": "false",
+            "geo.zip": "90011",
+            "profile.Seg2": "98",
+            "profile.isCAFH": "false",
+            "geo.dma": "los angeles",
+            "profile.isProjectIron": "false",
+            "profile.aud_rndm": "29",
+            "profile.membershipAccountStatus": "ACTIVE",
+            "profile.hundredGroups": "45",
+            "profile.lastAuth": "true",
+            "profile.pzn_id": "12581511"
+          },
+          "sourceType": "target"
+        },
+        {
+          "content": "<script>\n  window._profile = window._profile || {};\n  window._profile.geo = window._profile.geo || {};\n  window._profile.geo.zip = \"90011\";\n  window._profile.geo.city = \"los angeles\";\n  window._profile.geo.state = \"california\";\n  window._profile.geo.dma = \"los angeles\";\n  window._profile.geo.region = window._profile.geo.region || {\n    'rom': \"\",\n    'rop': \"\"\n  }\n  // user.<whatever> are my profile scripts\n  // profile.<whatever> are the profile parameters\n  window._profile.rndm = \"29\";\n\n  window._profile.flags = window._profile.flags || {}\n  window._profile.flags.reEnable = \"\"\n\n  window.onload = function () {\n    document.addEventListener('pEmbed', function (e) {\n      if (window._geo) {\n        //console.log(\"pEmbed: pEmbed Called\");\n      }\n    })\n    var e = new CustomEvent('pEmbed', {\n      'e': 'geo_ready'\n    });\n    document.dispatchEvent(e);\n    var e2 = new CustomEvent('profile-ready', {\n      'e': 'profile-ready'\n    });\n    document.dispatchEvent(e2);\n  }\n</script>",
+          "type": "html",
+          "responseTokens": {
+            "profile.LoggedIn": "true",
+            "profile.consumerPlanType": "KFHP_HIX",
+            "activity.name": "Prod - Profile - SST",
+            "geo.state": "california",
+            "activity.id": "382143",
+            "experience.name": "Experience A",
+            "profile.Seg12": "ACTIVE",
+            "profile.guid": "4769692",
+            "profile.Seg106v": "KFHP_HIX",
+            "profile.rndm": "1",
+            "profile.Seg56v": "MBR",
+            "experience.id": "0",
+            "profile.inReEnableGroup": "false",
+            "profile.tntId": "f38dd098ff1847c6a68c1049ff075f5e",
+            "geo.city": "los angeles",
+            "profile.Seg103v": "false",
+            "profile.roleType": "MBR",
+            "profile.selfFunded": "false",
+            "geo.zip": "90011",
+            "profile.Seg2": "98",
+            "profile.isCAFH": "false",
+            "geo.dma": "los angeles",
+            "profile.isProjectIron": "false",
+            "profile.aud_rndm": "29",
+            "profile.membershipAccountStatus": "ACTIVE",
+            "profile.hundredGroups": "45",
+            "profile.lastAuth": "true",
+            "profile.pzn_id": "12581511"
+          },
+          "sourceType": "target"
+        }
+      ],
+      "metrics": [
+        {
+          "type": "click",
+          "selector": "#show-more-less-fd--0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#show-more-less-fd--0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#show-more-less-fd--0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(1) > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#show-more-less-fd--0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(1) > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#hidden-group-0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#container-7f4a9222d0 > DIV.cmp-container:eq(0) > DIV.aem-Grid:eq(0) > DIV.responsivegrid:eq(0) > DIV.aem-Grid:eq(0) > DIV.gs-text-image:eq(0) > DIV:nth-of-type(1) > DIV.root:eq(0) > DIV.aem-Grid:eq(0) > DIV.gs-text-image:eq(0) > DIV.document__full-width-background--gray:eq(0) > DIV.welcome-story:eq(0) > DIV.welcome-story__content:eq(0) > DIV.welcome-story__content-action:eq(0) > DIV:nth-of-type(1) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "Ospm6SidaOntW1pVajXpHA=="
+        },
+        {
+          "type": "click",
+          "selector": "#container-7f4a9222d0 > DIV.cmp-container:eq(0) > DIV.aem-Grid:eq(0) > DIV.responsivegrid:eq(0) > DIV.aem-Grid:eq(0) > DIV.gs-text-image:eq(0) > DIV:nth-of-type(1) > DIV.root:eq(0) > DIV.aem-Grid:eq(0) > DIV.gs-text-image:eq(0) > DIV.document__full-width-background--gray:eq(0) > DIV.welcome-story:eq(0) > DIV.welcome-story__content:eq(0) > DIV.welcome-story__content-description:eq(0) > P:nth-of-type(1) > A:nth-of-type(1)",
+          "eventToken": "Ospm6SidaOntW1pVajXpHA=="
+        },
+        {
+          "type": "click",
+          "selector": "#large-main-pill > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#large-main-pill > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#hidden-group-0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(1) > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#hidden-group-0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(1) > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#hidden-group-0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        }
+      ]
+    }
+  }
+}

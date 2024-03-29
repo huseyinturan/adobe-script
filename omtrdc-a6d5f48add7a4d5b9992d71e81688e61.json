@@ -1,0 +1,283 @@
+{
+  "status": 200,
+  "requestId": "285afbc0fa7544cba2d9ad16e5577ce5",
+  "client": "kaiser",
+  "id": {
+    "tntId": "f38dd098ff1847c6a68c1049ff075f5e.35_0",
+    "marketingCloudVisitorId": "88604998232045790493630718330683846952"
+  },
+  "edgeHost": "mboxedge35.tt.omtrdc.net",
+  "prefetch": {},
+  "telemetryServerToken": "m8jS4TsfOM1y9UCCMPaVjRZKwjhPxGcGUUM2cb7FII4=",
+  "execute": {
+    "pageLoad": {
+      "options": [
+        {
+          "content": "<script>\n  window._profile = window._profile || {};\n  window._profile.geo = window._profile.geo || {};\n  window._profile.geo.zip = \"90011\";\n  window._profile.geo.city = \"los angeles\";\n  window._profile.geo.state = \"california\";\n  window._profile.geo.dma = \"los angeles\";\n  window._profile.geo.region = window._profile.geo.region || {\n    'rom': \"\",\n    'rop': \"\"\n  }\n  // user.<whatever> are my profile scripts\n  // profile.<whatever> are the profile parameters\n  window._profile.rndm = \"29\";\n\n  window._profile.flags = window._profile.flags || {}\n  window._profile.flags.reEnable = \"\"\n\n  window.onload = function () {\n    document.addEventListener('pEmbed', function (e) {\n      if (window._geo) {\n        //console.log(\"pEmbed: pEmbed Called\");\n      }\n    })\n    var e = new CustomEvent('pEmbed', {\n      'e': 'geo_ready'\n    });\n    document.dispatchEvent(e);\n    var e2 = new CustomEvent('profile-ready', {\n      'e': 'profile-ready'\n    });\n    document.dispatchEvent(e2);\n  }\n</script>",
+          "type": "html",
+          "responseTokens": {
+            "profile.LoggedIn": "true",
+            "profile.consumerPlanType": "KFHP_HIX",
+            "activity.name": "Prod - Profile - SST",
+            "geo.state": "california",
+            "activity.id": "382143",
+            "experience.name": "Experience A",
+            "profile.Seg12": "ACTIVE",
+            "profile.guid": "4769692",
+            "profile.Seg106v": "KFHP_HIX",
+            "profile.rndm": "1",
+            "profile.Seg56v": "MBR",
+            "experience.id": "0",
+            "profile.inReEnableGroup": "false",
+            "profile.tntId": "f38dd098ff1847c6a68c1049ff075f5e",
+            "geo.city": "los angeles",
+            "profile.Seg103v": "false",
+            "profile.roleType": "MBR",
+            "profile.selfFunded": "false",
+            "geo.zip": "90011",
+            "profile.Seg2": "98",
+            "profile.isCAFH": "",
+            "geo.dma": "los angeles",
+            "profile.isProjectIron": "",
+            "profile.aud_rndm": "29",
+            "profile.membershipAccountStatus": "ACTIVE",
+            "profile.hundredGroups": "45",
+            "profile.lastAuth": "true",
+            "profile.pzn_id": "12581511"
+          },
+          "sourceType": "target"
+        },
+        {
+          "content": [
+            {
+              "type": "setHtml",
+              "selector": "#container-7f4a9222d0 > DIV.cmp-container:eq(0) > DIV.aem-Grid:eq(0) > DIV.responsivegrid:eq(0) > DIV.aem-Grid:eq(0) > DIV.experiencefragment:eq(0)",
+              "cssSelector": "#container-7f4a9222d0 > DIV:nth-of-type(1) > DIV:nth-of-type(1) > DIV:nth-of-type(1) > DIV:nth-of-type(1) > DIV:nth-of-type(2)",
+              "content": "\n\n<div>\n    <div class=\"root responsivegrid\">\n\n\n<div class=\"aem-Grid aem-Grid--12 aem-Grid--default--12 \">\n    \n    <div class=\"gs-text-image aem-GridColumn aem-GridColumn--default--12\">\n\n\n\n\n\n    \n        <div class=\"document__full-width-background--half-height-gray\">\n\n            <div class=\"welcome-hero\">\n\n                \n                \n                \n<div class=\"welcome-hero__image image\">\n    <img src=\"/content/dam/kporg/front-door/people-laughing-during-book-club/people-laughing-during-book-club-l-dt.jpg\" alt=\"People laughing during book club\"/>\n</div>\n\n\n                <div class=\"welcome-hero__content\" role=\"region\" aria-labelledby=\"welcome-hero__content-title\" data-analytics-location=\"text-image\">\n                    \n\t<!--div data-sly-test=\"Other resources\" id=\"\" class=\"header-styles     \" data-sly-attribute=\"\" data-sly-element=\"div\" data-sly-text=\"Other resources\">Header Component</div-->\n\n\n                    \n                    <div class=\"welcome-hero__content-title\" id=\"welcome-hero__content-title\">Other resources</div>\n                    \n                    <div class=\"welcome-hero__content-description\">\n\n                    </div>\n\n                    <div class=\"welcome-hero__content-action\">\n\n                        <div class=\"show-more-less-fd\" data-more-label=\"View more\" data-less-label=\"View less\">\n                            <div class=\"show-more-less-item\">\n                                \n                                \n\n\n\n\n    \n    \n    <div class=\"column-control parbase\">\n\n\n    <div class=\"column-control-container\">\n\n<div class=\"rows\">\n    <div class=\"columns-12\" data-analytics-location=\"column-1\">\n</div>\n</div>\n\n    </div>\n\n</div>\n\n\n    \n    \n    <div class=\"fd-button\">\n\t\n\t\n\n\n\t\n\n\n\t<a data-analytics-location=\"cta:COVID-19 testing\" class=\"button \" href=\"https://healthy.kaiserpermanente.org/health-wellness/coronavirus-information/testing\" data-analytics-click=\"COVID-19 testing\" target=\"_self\" data-analytics-type=\"button\">\n\t\tCOVID-19 testing\n\t</a>\n\n\n\t\n\n\n\n</div>\n\n\n    \n    \n    <div class=\"fd-button\">\n\t\n\t\n\n\n\t\n\n\n\t<a data-analytics-location=\"cta:Monkeypox\" class=\"button \" href=\"https://healthy.kaiserpermanente.org/health-wellness/monkeypox.html\" data-analytics-click=\"Monkeypox\" target=\"_self\" data-analytics-type=\"button\">\n\t\tMonkeypox\n\t</a>\n\n\n\t\n\n\n\n</div>\n\n\n    \n    \n    <div class=\"fd-button\">\n\t\n\t\n\n\n\t\n\n\n\t<a data-analytics-location=\"cta:Get a flu shot\" class=\"button \" href=\"https://healthy.kaiserpermanente.org/health-wellness/flu\" data-analytics-click=\"Get a flu shot\" target=\"_self\" data-analytics-type=\"button\">\n\t\tGet a flu shot\n\t</a>\n\n\n\t\n\n\n\n</div>\n\n\n    \n    \n    <div class=\"fd-button\">\n\t\n\t\n\n\n\t\n\n\n\t<a data-analytics-location=\"cta:Get care\" class=\"button \" href=\"https://healthy.kaiserpermanente.org/get-care\" data-analytics-click=\"Get care\" target=\"_self\" data-analytics-type=\"button\">\n\t\tGet care\n\t</a>\n\n\n\t\n\n\n\n</div>\n\n\n    \n    \n    <div class=\"fd-button\">\n\t\n\t\n\n\n\t\n\n\n\t<a data-analytics-location=\"cta:Care while traveling\" class=\"button \" href=\"https://healthy.kaiserpermanente.org/southern-california/get-care/traveling\" data-analytics-click=\"Care while traveling\" target=\"_self\" data-analytics-type=\"button\">\n\t\tCare while traveling\n\t</a>\n\n\n\t\n\n\n\n</div>\n\n\n    \n    \n    <div class=\"fd-button\">\n\t\n\t\n\n\n\t\n\n\n\t<a data-analytics-location=\"cta:Mental health services\" class=\"button \" href=\"https://healthy.kaiserpermanente.org/southern-california/health-wellness/mental-health/services\" data-analytics-click=\"Mental health services\" target=\"_self\" data-analytics-type=\"button\">\n\t\tMental health services\n\t</a>\n\n\n\t\n\n\n\n</div>\n\n\n    \n    \n    <div class=\"fd-button\">\n\t\n\t\n\n\n\t\n\n\n\t<a data-analytics-location=\"cta:Pharmacy\" class=\"button \" href=\"https://healthy.kaiserpermanente.org/secure/pharmacy\" data-analytics-click=\"Pharmacy\" target=\"_self\" data-analytics-type=\"button\">\n\t\tPharmacy\n\t</a>\n\n\n\t\n\n\n\n</div>\n\n\n    \n    \n    <div class=\"fd-button\">\n\t\n\t\n\n\n\t\n\n\n\t<a data-analytics-location=\"cta:Pay my bill\" class=\"button \" href=\"https://healthy.kaiserpermanente.org/southern-california/secure/coverage-costs/pay-medical-bills/\" data-analytics-click=\"Pay my bill\" target=\"_self\" data-analytics-type=\"button\">\n\t\tPay my bill\n\t</a>\n\n\n\t\n\n\n\n</div>\n\n\n\n                            </div>\n                            \n                            \n                                <div class=\"show-more-less-item\">\n                            \n                            \n\n\n\n\n\n                        </div>\n                    </div>\n\n                </div>\n            </div>\n\n        </div>\n        </div>\n    \n\n    \n\n    \n\n\n</div>\n\n    \n</div>\n</div>\n\n</div>\n\n\n\n"
+            }
+          ],
+          "type": "actions",
+          "responseTokens": {
+            "profile.LoggedIn": "true",
+            "profile.consumerPlanType": "KFHP_HIX",
+            "activity.name": "Kporg_2021_FrontDoorPillsDesign_XF: Live 06/03/2021",
+            "geo.state": "california",
+            "activity.id": "402717",
+            "experience.name": "Experience A",
+            "profile.Seg12": "ACTIVE",
+            "profile.guid": "4769692",
+            "profile.Seg106v": "KFHP_HIX",
+            "profile.rndm": "1",
+            "profile.Seg56v": "MBR",
+            "experience.id": "0",
+            "profile.inReEnableGroup": "false",
+            "profile.tntId": "f38dd098ff1847c6a68c1049ff075f5e",
+            "geo.city": "los angeles",
+            "profile.Seg103v": "false",
+            "profile.roleType": "MBR",
+            "profile.selfFunded": "false",
+            "geo.zip": "90011",
+            "profile.Seg2": "98",
+            "profile.isCAFH": "",
+            "geo.dma": "los angeles",
+            "profile.isProjectIron": "",
+            "profile.aud_rndm": "29",
+            "profile.membershipAccountStatus": "ACTIVE",
+            "profile.hundredGroups": "45",
+            "profile.lastAuth": "true",
+            "profile.pzn_id": "12581511"
+          },
+          "sourceType": "target"
+        },
+        {
+          "content": [
+            {
+              "type": "customCode",
+              "selector": "HEAD",
+              "cssSelector": "",
+              "content": "<script>\n    /* Code added by Personalization team as part of Adobe Target activity. */\n    function adjustPlacecardImage() {\n        $('img[data-lazy-src]').attr('src', $('img[data-lazy-src]').attr('data-lazy-src'));\n    }\n    \n    function runAfterElementExists (element, callback) {\n        let counter = 0;\n        let checker = window.setInterval(function () {\n            if ($(element).length) {\n                callback();\n                clearInterval(checker);\n            } else {\n                counter++;\n                if (counter > 250) { clearInterval(checker); }\n            }\n        }, 50);\n    }\n    \n    runAfterElementExists('img[data-lazy-src]', adjustPlacecardImage);\n</script>"
+            }
+          ],
+          "type": "actions",
+          "responseTokens": {
+            "profile.LoggedIn": "true",
+            "profile.consumerPlanType": "KFHP_HIX",
+            "activity.name": "78_Frontdoor_Placecard_XF: Live 11/11/2021",
+            "geo.state": "california",
+            "activity.id": "426131",
+            "experience.name": "Experience A",
+            "profile.Seg12": "ACTIVE",
+            "profile.guid": "4769692",
+            "profile.Seg106v": "KFHP_HIX",
+            "profile.rndm": "1",
+            "profile.Seg56v": "MBR",
+            "experience.id": "0",
+            "profile.inReEnableGroup": "false",
+            "profile.tntId": "f38dd098ff1847c6a68c1049ff075f5e",
+            "geo.city": "los angeles",
+            "profile.Seg103v": "false",
+            "profile.roleType": "MBR",
+            "profile.selfFunded": "false",
+            "geo.zip": "90011",
+            "profile.Seg2": "98",
+            "profile.isCAFH": "",
+            "geo.dma": "los angeles",
+            "profile.isProjectIron": "",
+            "profile.aud_rndm": "29",
+            "profile.membershipAccountStatus": "ACTIVE",
+            "profile.hundredGroups": "45",
+            "profile.lastAuth": "true",
+            "profile.pzn_id": "12581511"
+          },
+          "sourceType": "target"
+        },
+        {
+          "content": [
+            {
+              "type": "setHtml",
+              "selector": "main > DIV.cmp-container:eq(0) > DIV.aem-Grid:eq(0) > DIV.responsivegrid:eq(0) > DIV.aem-Grid:eq(0) > DIV.gs-text-image:eq(0)",
+              "cssSelector": "#container-7f4a9222d0 > DIV:nth-of-type(1) > DIV:nth-of-type(1) > DIV:nth-of-type(1) > DIV:nth-of-type(1) > DIV:nth-of-type(3)",
+              "content": "\n\n<div>\n    <div class=\"root responsivegrid\">\n\n\n<div class=\"aem-Grid aem-Grid--12 aem-Grid--default--12 \">\n    \n    <div class=\"gs-text-image aem-GridColumn aem-GridColumn--default--12\">\n\n\n\n\n\n    \n\n    \n\n    \n        <div class=\"document__full-width-background--gray\">\n\n            <div class=\"welcome-story welcome-story--image-right\">\n                \n                \n                \n\n  <div class=\"welcome-story__image image\">\n    <img data-lazy-src=\"/content/dam/kporg/front-door/parent-and-child-painting-a-picture-together/parent-and-child-painting-a-picture-together-l-dt.jpg\" alt=\"Parent and child painting a picture together\" width=\"956\" height=\"637\"/>\n  </div>\n\n\n                <div class=\"welcome-story__content\">\n                    <div class=\"welcome-story__content-category\">\n                        \n                    </div>\n                    <header class=\"welcome-story__content-header\">\n                        \n                        <div class=\"welcome-story__content-title\">\n                            Live your life \u2014 full speed ahead\n                        </div>\n                    </header>\n                   \n                    <div class=\"welcome-story__content-description\">\n                        <p>Don\u2019t let the flu slow you down. Protect yourself and your loved ones by getting the flu shot, for no additional cost.<br />\n</p>\n\n\n\n\n\n                    </div>\n                    <div class=\"welcome-story__content-action\">\n                        <div>\n\n\n\n\n    \n    \n    <div class=\"fd-button\">\n\t\n\t\n\n\n\t\n\n\n\t<a data-analytics-location=\"cta:Get a flu shot\" class=\"button \" href=\"https://healthy.kaiserpermanente.org/health-wellness/flu\" data-analytics-click=\"Get a flu shot\" target=\"_self\" data-analytics-type=\"button\">\n\t\tGet a flu shot\n\t</a>\n\n\n\t\n\n\n\n</div>\n\n\n</div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    \n\n\n</div>\n\n    \n</div>\n</div>\n\n</div>\n\n\n\n"
+            }
+          ],
+          "type": "actions",
+          "responseTokens": {
+            "profile.LoggedIn": "true",
+            "profile.consumerPlanType": "KFHP_HIX",
+            "activity.name": "78_Frontdoor_Placecard_XF: Live 11/11/2021",
+            "geo.state": "california",
+            "activity.id": "426131",
+            "experience.name": "Experience A",
+            "profile.Seg12": "ACTIVE",
+            "profile.guid": "4769692",
+            "profile.Seg106v": "KFHP_HIX",
+            "profile.rndm": "1",
+            "profile.Seg56v": "MBR",
+            "experience.id": "0",
+            "profile.inReEnableGroup": "false",
+            "profile.tntId": "f38dd098ff1847c6a68c1049ff075f5e",
+            "geo.city": "los angeles",
+            "profile.Seg103v": "false",
+            "profile.roleType": "MBR",
+            "profile.selfFunded": "false",
+            "geo.zip": "90011",
+            "profile.Seg2": "98",
+            "profile.isCAFH": "",
+            "geo.dma": "los angeles",
+            "profile.isProjectIron": "",
+            "profile.aud_rndm": "29",
+            "profile.membershipAccountStatus": "ACTIVE",
+            "profile.hundredGroups": "45",
+            "profile.lastAuth": "true",
+            "profile.pzn_id": "12581511"
+          },
+          "sourceType": "target"
+        },
+        {
+          "content": [
+            {
+              "type": "customCode",
+              "selector": "HEAD",
+              "cssSelector": "",
+              "content": "<style>\n    /* Code added by Personalization team as part of Adobe Target activity. */\n    @media screen and (min-width: 1152px) {\n        .welcome-hero__content {\n            display: none;\n        }\n    }\n    \n    #large-main-pill {\n        display: flex;\n        margin: 0 0 40px;\n    }\n    \n    #large-main-pill a {\n        background-color: #006BA6;\n        color: white;\n    }\n    \n    .welcome-hero__content-title {\n        padding-bottom: 15px;\n    }\n    \n    @media screen and (min-width: 1152px) {\n        .welcome-hero__content {\n            \n            margin-left: 0;\n            margin-right: 0;\n            padding-left: 2pc;\n            padding-right: 20px;\n            padding-bottom: 1.4pc;\n        }\n        .welcome-hero__content-title {\n            padding-bottom: 15px;\n        }\n    }\n    \n    .welcome-hero__content {\n        border: 1px solid rgba(0,0,0,.1);\n        border-radius: 4px;\n        -webkit-box-shadow: 0 4px 20px rgb(0 0 0 / 4%);\n        box-shadow: 0 4px 20px rgb(0 0 0 / 4%);\n        background-color: #fff;\n        z-index: 1;\n        position: relative;\n        margin-right: 1pc;\n        margin-left: 1pc;\n        padding: 15px 8px 24px 1pc;\n    }\n</style>\n<script>\n    /* Code added by Personalization team as part of Adobe Target activity. */\n    function insertPillsXF () {\n        let pillsXF = `\n        <div class=\"welcome-hero__content-title\" id=\"welcome-hero__content-title_FD-ExpD\">\n            COVID-19 vaccine and booster update:\n        </div>\n        <div id=\"large-main-pill\" class=\"fd-button\">\n            <a data-analytics-location=\"\" class=\"button \" href=\"/health-wellness/coronavirus-information/covid-vaccine\" data-analytics-click=\"2021_Frontdoor_ABCDE_XF_ExpE_CTA\" target=\"_self\" data-analytics-type=\"button\">\n                Vaccines and boosters\n            </a>\n        </div>\n        `;\n        \n        $('.welcome-hero__content').prepend(pillsXF);\n        $('.welcome-hero__content').attr('style', 'display: inline');\n    }\n    \n    function runAfterElementExists (element, callback) {\n        let checker = window.setInterval(function () {\n            if ($(element).length) {\n                callback();\n                clearInterval(checker);\n            }\n        }, 20);\n    }\n    \n    runAfterElementExists('.welcome-hero__content', insertPillsXF);\n</script>"
+            }
+          ],
+          "type": "actions",
+          "responseTokens": {
+            "profile.LoggedIn": "true",
+            "profile.consumerPlanType": "KFHP_HIX",
+            "activity.name": "Kporg_2021_FrontDoorPillsDesign_XT: Live 03/04/2021",
+            "geo.state": "california",
+            "activity.id": "388583",
+            "experience.name": "Experience A",
+            "profile.Seg12": "ACTIVE",
+            "profile.guid": "4769692",
+            "profile.Seg106v": "KFHP_HIX",
+            "profile.rndm": "1",
+            "profile.Seg56v": "MBR",
+            "experience.id": "0",
+            "profile.inReEnableGroup": "false",
+            "profile.tntId": "f38dd098ff1847c6a68c1049ff075f5e",
+            "geo.city": "los angeles",
+            "profile.Seg103v": "false",
+            "profile.roleType": "MBR",
+            "profile.selfFunded": "false",
+            "geo.zip": "90011",
+            "profile.Seg2": "98",
+            "profile.isCAFH": "",
+            "geo.dma": "los angeles",
+            "profile.isProjectIron": "",
+            "profile.aud_rndm": "29",
+            "profile.membershipAccountStatus": "ACTIVE",
+            "profile.hundredGroups": "45",
+            "profile.lastAuth": "true",
+            "profile.pzn_id": "12581511"
+          },
+          "sourceType": "target"
+        }
+      ],
+      "metrics": [
+        {
+          "type": "click",
+          "selector": "#show-more-less-fd--0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#show-more-less-fd--0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#show-more-less-fd--0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(1) > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#show-more-less-fd--0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(1) > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#hidden-group-0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#container-7f4a9222d0 > DIV.cmp-container:eq(0) > DIV.aem-Grid:eq(0) > DIV.responsivegrid:eq(0) > DIV.aem-Grid:eq(0) > DIV.gs-text-image:eq(0) > DIV:nth-of-type(1) > DIV.root:eq(0) > DIV.aem-Grid:eq(0) > DIV.gs-text-image:eq(0) > DIV.document__full-width-background--gray:eq(0) > DIV.welcome-story:eq(0) > DIV.welcome-story__content:eq(0) > DIV.welcome-story__content-action:eq(0) > DIV:nth-of-type(1) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "Ospm6SidaOntW1pVajXpHA=="
+        },
+        {
+          "type": "click",
+          "selector": "#container-7f4a9222d0 > DIV.cmp-container:eq(0) > DIV.aem-Grid:eq(0) > DIV.responsivegrid:eq(0) > DIV.aem-Grid:eq(0) > DIV.gs-text-image:eq(0) > DIV:nth-of-type(1) > DIV.root:eq(0) > DIV.aem-Grid:eq(0) > DIV.gs-text-image:eq(0) > DIV.document__full-width-background--gray:eq(0) > DIV.welcome-story:eq(0) > DIV.welcome-story__content:eq(0) > DIV.welcome-story__content-description:eq(0) > P:nth-of-type(1) > A:nth-of-type(1)",
+          "eventToken": "Ospm6SidaOntW1pVajXpHA=="
+        },
+        {
+          "type": "click",
+          "selector": "#large-main-pill > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#large-main-pill > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#hidden-group-0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(1) > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#hidden-group-0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(1) > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#hidden-group-0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        }
+      ]
+    }
+  }
+}

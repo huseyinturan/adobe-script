@@ -1,0 +1,115 @@
+{
+  "status": 200,
+  "requestId": "26ad6e0d5c284db5be45d9a71fe092e3",
+  "client": "kaiser",
+  "id": {
+    "tntId": "f38dd098ff1847c6a68c1049ff075f5e.35_0",
+    "marketingCloudVisitorId": "88604998232045790493630718330683846952"
+  },
+  "edgeHost": "mboxedge35.tt.omtrdc.net",
+  "prefetch": {},
+  "telemetryServerToken": "sWzAuPN0jRUiKvgomAHTp5Xnsnn8TJkKAI00wNaSyq4=",
+  "execute": {
+    "pageLoad": {
+      "options": [
+        {
+          "content": "<script>\n  window._profile = window._profile || {};\n  window._profile.geo = window._profile.geo || {};\n  window._profile.geo.zip = \"90011\";\n  window._profile.geo.city = \"los angeles\";\n  window._profile.geo.state = \"california\";\n  window._profile.geo.dma = \"los angeles\";\n  window._profile.geo.region = window._profile.geo.region || {\n    'rom': \"\",\n    'rop': \"\"\n  }\n  // user.<whatever> are my profile scripts\n  // profile.<whatever> are the profile parameters\n  window._profile.rndm = \"29\";\n\n  window._profile.flags = window._profile.flags || {}\n  window._profile.flags.reEnable = \"\"\n\n  window.onload = function () {\n    document.addEventListener('pEmbed', function (e) {\n      if (window._geo) {\n        //console.log(\"pEmbed: pEmbed Called\");\n      }\n    })\n    var e = new CustomEvent('pEmbed', {\n      'e': 'geo_ready'\n    });\n    document.dispatchEvent(e);\n    var e2 = new CustomEvent('profile-ready', {\n      'e': 'profile-ready'\n    });\n    document.dispatchEvent(e2);\n  }\n</script>",
+          "type": "html",
+          "responseTokens": {
+            "profile.LoggedIn": "true",
+            "profile.consumerPlanType": "KFHP_HIX",
+            "activity.name": "Prod - Profile - SST",
+            "geo.state": "california",
+            "activity.id": "382143",
+            "experience.name": "Experience A",
+            "profile.Seg12": "ACTIVE",
+            "profile.guid": "4769692",
+            "profile.Seg106v": "KFHP_HIX",
+            "profile.rndm": "1",
+            "profile.Seg56v": "MBR",
+            "experience.id": "0",
+            "profile.inReEnableGroup": "false",
+            "profile.tntId": "f38dd098ff1847c6a68c1049ff075f5e",
+            "geo.city": "los angeles",
+            "profile.Seg103v": "false",
+            "profile.roleType": "MBR",
+            "profile.selfFunded": "false",
+            "geo.zip": "90011",
+            "profile.Seg2": "98",
+            "profile.isCAFH": "",
+            "geo.dma": "los angeles",
+            "profile.isProjectIron": "",
+            "profile.aud_rndm": "29",
+            "profile.membershipAccountStatus": "ACTIVE",
+            "profile.hundredGroups": "45",
+            "profile.lastAuth": "true",
+            "profile.pzn_id": "12581511"
+          },
+          "sourceType": "target"
+        }
+      ],
+      "metrics": [
+        {
+          "type": "click",
+          "selector": "#show-more-less-fd--0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#show-more-less-fd--0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#show-more-less-fd--0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(1) > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#show-more-less-fd--0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(1) > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#hidden-group-0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#container-7f4a9222d0 > DIV.cmp-container:eq(0) > DIV.aem-Grid:eq(0) > DIV.responsivegrid:eq(0) > DIV.aem-Grid:eq(0) > DIV.gs-text-image:eq(0) > DIV:nth-of-type(1) > DIV.root:eq(0) > DIV.aem-Grid:eq(0) > DIV.gs-text-image:eq(0) > DIV.document__full-width-background--gray:eq(0) > DIV.welcome-story:eq(0) > DIV.welcome-story__content:eq(0) > DIV.welcome-story__content-action:eq(0) > DIV:nth-of-type(1) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "Ospm6SidaOntW1pVajXpHA=="
+        },
+        {
+          "type": "click",
+          "selector": "#container-7f4a9222d0 > DIV.cmp-container:eq(0) > DIV.aem-Grid:eq(0) > DIV.responsivegrid:eq(0) > DIV.aem-Grid:eq(0) > DIV.gs-text-image:eq(0) > DIV:nth-of-type(1) > DIV.root:eq(0) > DIV.aem-Grid:eq(0) > DIV.gs-text-image:eq(0) > DIV.document__full-width-background--gray:eq(0) > DIV.welcome-story:eq(0) > DIV.welcome-story__content:eq(0) > DIV.welcome-story__content-description:eq(0) > P:nth-of-type(1) > A:nth-of-type(1)",
+          "eventToken": "Ospm6SidaOntW1pVajXpHA=="
+        },
+        {
+          "type": "click",
+          "selector": "#large-main-pill > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#large-main-pill > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#hidden-group-0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(1) > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#hidden-group-0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(1) > A.button:eq(0)",
+          "eventToken": "zPguUxn1a20YDvG3dAO7JQ=="
+        },
+        {
+          "type": "click",
+          "selector": "#hidden-group-0 > DIV.show-more-less-item:eq(0) > DIV.fd-button:eq(0) > A.button:eq(0)",
+          "eventToken": "645HCN3WkYuSHZL/5JS7qQ=="
+        }
+      ]
+    }
+  }
+}
